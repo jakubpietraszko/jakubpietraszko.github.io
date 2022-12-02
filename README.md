@@ -1,6 +1,6 @@
 # strona o snake'u
 
-bedziemy pisac gre snake w pythonie
+bedziemy pisac gre snake w [pythonie](https://docs.python.org/3/tutorial/)
 
 coz za zmieżność nazw
 
